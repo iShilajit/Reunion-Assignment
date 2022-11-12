@@ -1,0 +1,30 @@
+#social{
+    /* border:1px solid red; */
+    width:20%;
+    padding:5px;
+}
+
+
+#home , #blog, #contact, #about {
+text-decoration: none;
+margin-left: 1%;
+color:black;
+}
+#footer{
+    border:1px solid rgb(231, 228, 228);
+    margin-bottom:4%;
+    padding:5px;
+}
+#social>button>img{
+    width:20px;
+    /* height:20px; */
+   
+}
+#social>button{
+margin-left: 1%;
+
+}
+#reserved{
+    display:flex;
+    justify-content: space-evenly;
+}

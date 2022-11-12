@@ -1,0 +1,133 @@
+#show{
+    display:grid;
+    /* border:1px solid red; */
+    width:80%;
+    margin:auto;
+    grid-template-columns: repeat(3,1fr);
+    gap:20px;
+    margin-bottom: 5%;
+   
+}
+#card{
+    border-radius:4px;
+    width:90%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+#card:hover{
+    cursor:pointer;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#price{
+    color: #7163f2;
+    text-align: left;
+    margin-left: 5%;
+    margin-top:0.5rem;
+}
+#month{
+    color: #bcbbbf;
+    font-size: 14px;
+}
+#name{
+    text-align: left;
+    margin-left: 5%;
+    margin-top:-5%;
+}
+#address{
+    color: #bcbbbf;
+    text-align: left;
+    margin-left: 5%;
+    margin-top:-5%;
+    /* border:1px solid red; */
+    height:20px;
+    overflow:hidden;
+}
+#img{
+    width:100%;
+    height:200px;
+}
+#details{
+    margin-top:-2%;
+    display:flex;
+    /* border:1px solid green; */
+    justify-content: space-between;
+    padding:2px;
+
+}
+#details>div>img{
+    width:20%;
+    height:20px;
+}
+#details>div{
+    display:flex;
+    color: #bcbbbf;
+    padding:2px;
+}
+#bathroom{
+    /* border:1px solid blue; */
+    text-align: left;
+    width:50%;
+    height:20px;
+}
+#bed{
+    /* border:1px solid blue; */
+    width:25%;
+    height:20px;
+    
+}
+#area{
+    /* border:1px solid blue; */
+    width:25%;
+    height:20px;
+    text-align: left;
+}
+#details>div>p{
+    /* border:1px solid red; */
+    height:20px;
+    width:80%;
+    margin-top: -1px;
+    font-size: 12px;
+}
+
+#favbtn{
+    /* border:1px solid red; */
+    margin-top:-5%;
+    background-color: white;
+    border:none;
+    height:10%;
+    margin-right: 2%;
+
+}
+#favbtn:active{
+ background-color:bisque;
+}
+#name_fav{
+    /* border:1px solid green; */
+    display:flex;
+    justify-content: space-between;
+}
+
+/* responsiveness */
+
+@media only screen and (min-width: 600px) and  (max-width: 1100px){
+    #show{
+        width: 60%;
+        margin: auto;
+    
+        display:grid;
+        grid-template-columns: repeat(2, 1fr);
+        /* border:1px solid red; */
+        gap: 30px;
+    }
+  }
+
+  @media only screen and (max-width: 600px){
+    #show{
+        width: 100%;
+        margin: auto;
+        margin-bottom:2%;   
+        display:grid;
+        grid-template-columns: repeat(1, 1fr);
+        /* border:1px solid red; */
+        gap: 30px;
+    }
+  }

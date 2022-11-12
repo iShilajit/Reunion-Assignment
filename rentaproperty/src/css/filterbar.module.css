@@ -1,0 +1,52 @@
+#filterbar{
+margin-bottom: 2%;
+
+}
+
+#filterbar>form{
+    display:flex;
+    gap:5%;
+    width:80%;
+    margin:auto;
+    align-items: center;
+    border: 1px solid rgb(228, 223, 223);
+    border-radius: 4px;
+    
+}
+
+#submit{
+    margin-bottom:2%;
+    padding:10px;
+    color:white;
+    background-color: #007aff;
+    border: 1px solid #007aff;
+    border-radius: 4px;
+}
+#submit:active{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+@media only screen and (min-width: 600px) and  (max-width: 1100px){
+    #filterbar>form{
+        width: 60%;
+        margin: auto;
+    
+        display:grid;
+        grid-template-columns: repeat(2, 1fr);
+        /* border:1px solid red; */
+        gap: 30px;
+    }
+  }
+
+  @media only screen and (max-width: 600px){
+    #filterbar>form{
+        width: 60%;
+        margin: auto;
+        display:grid;
+        grid-template-columns: repeat(1, 1fr);
+        /* border:1px solid red; */
+        /* gap: 30px; */
+        margin-bottom: 15%;
+    }
+  }

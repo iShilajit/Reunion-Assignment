@@ -1,0 +1,151 @@
+{
+    "houses": [
+      {
+        "id": 1,
+        "name": "Palm Harbor",
+        "location": "New York, USA",
+        "price":2095 ,
+        "address": "2699 Green Valley,Highland Lake.FL",
+        "bed": 3,
+        "bathroom": 2,
+        "area": 5.7,
+        "Type": "Lodge",
+        "img":"https://www.abcsupply.com/wp-content/uploads/2020/01/news-siding-trends-blue-house-july-18-inset-2-576x334.png"
+      },
+      {
+        "id": 2,
+        "name": "Beverly Springfield",
+        "location": "Chicago",
+        "price":2345 ,
+        "address": "2821 Lake Sevilla, Palm Harbor, TX",
+        "bed": 3,
+        "bathroom": 2,
+        "area": 6.5,
+        "Type": "Villa",
+        "img":"https://i.pinimg.com/564x/17/f3/49/17f349cefa4ebf45fdf7a60aa44185ca.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Faulkner Ave",
+        "location": "California, USA",
+        "price":4550 ,
+        "address": "909 Woodland St. Michigan, IN",
+        "bed": 4,
+        "bathroom": 3,
+        "area": 8.1,
+        "Type": "Hotel",
+        "img":"https://norman-spencer.com/wp-content/uploads/2019/06/real-estate-03-1080x675.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Martin Ave",
+        "location": "LA",
+        "price":8400 ,
+        "address": "834 John Bosco IN, St. Fort",
+        "bed": 2,
+        "bathroom": 3,
+        "area": 6.7,
+        "Type": "Houses",
+        "img":"https://q4g9y5a8.rocketcdn.me/wp-content/uploads/2020/02/home-banner-2020-02-min-1536x731.webp"
+      },
+      {
+        "id": 5,
+        "name": "Jack avenue of the americas",
+        "location": "California, USA",
+        "price": 9800,
+        "address": "2923 Joseph Kurup,Palm Harbor, TX",
+        "bed": 4,
+        "bathroom": 3,
+        "area": 8.2,
+        "Type": "Houses",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT75yFek7tK3mBbxFitIy9BsGiTsZtwgc4e9w&usqp=CAU"
+      },
+      {
+        "id": "6",
+        "name": "Park Residence of Gateway",
+        "location": "Chicago",
+        "price": 3800,
+        "address": "8342 Forbes St. Louis",
+        "bed": 5,
+        "bathroom": 5,
+        "area": 4.2,
+        "Type": "Villa",
+        "img":"https://images.livemint.com/img/2019/04/16/600x338/Kerala_1555430371601.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Brick Mexico Modale",
+        "location": "California, USA",
+        "price": 9800,
+        "address": "9236 Weigh Miami",
+        "bed": 4,
+        "bathroom": 3,
+        "area": 6.42,
+        "Type": "Hotel",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSuufJXqg3ZRx5EMRMsJi6DtmDuqXE3ar5ApnUmXkW2E_T2ll6ap4TTLNb9d6MYELyRR0&usqp=CAU"
+      },
+      {
+        "id": 8,
+        "name": "Johathon Oxford Rivere",
+        "location": "New York, USA",
+        "price": 4800,
+        "address": "6733 Texas University Rear",
+        "bed": 4,
+        "bathroom": 3,
+        "area": 9.86,
+        "Type": "Houses",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP0RVFuou9NPmugrY1h8DYfc8hznz32XOcaGk5ATon3r_Kn1AWQxSZiXr5vnsJSwLhvAQ&usqp=CAU"
+      },
+      {
+        "id": 9,
+"name": "Andrea Louis Fort",
+"location": "California, USA",
+"price": 2900,
+"address": "4895 Mother Teresa St. Califer",
+"bed": 6,
+"bathroom": 8,
+"area": 8.2,
+"Type": "Houses",
+        "img":"https://jcllegal.com.au/wp-content/uploads/2020/11/property-settlement-1000x667-1.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Modern Era of Forbes",
+        "location": "New York, USA",
+        "price": 1820,
+        "address": "3454 St.Thomas Modern ,TX",
+        "bed": 3,
+        "bathroom": 4,
+        "area": 4.7,
+        "Type": "Hotel",
+        "img":"https://images.adsttc.com/media/images/62de/d6a6/c8bb/b201/6567/7513/newsletter/houses-in-the-forest-architekturos-linija_16.jpg?1658771505"
+      },
+      {
+        "id": 11,
+        "name": "Paul Vila",
+        "location": "New Jersey",
+        "price":2305 ,
+        "address": "3454 St.Thomas Modern ,TX",
+        "bed": 3,
+        "bathroom": 2,
+        "area": 8.7,
+        "Type": "Houses",
+        "img":"https://media.architecturaldigest.com/photos/59de8016b237417e2f905bf2/16:9/w_2580,c_limit/01_RCHS-WD_Grazer_Ellis_247-Edit-Edit.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Casita Fort",
+        "location": "Pensenva, USA",
+        "price": 2900,
+        "address": "4895 Mother Teresa St. Califer",
+        "bed": 6,
+        "bathroom": 8,
+        "area": 8.2,
+        "Type": "Houses",
+        "img":"https://wp-tid.zillowstatic.com/bedrock/app/uploads/sites/5/2022/08/ZG_ZPA_08_21_Americana_ExtFront_1081_m2484px-copy_mobileImg2x-2.jpg"
+      }
+      
+    ]
+  
+    
+  }
